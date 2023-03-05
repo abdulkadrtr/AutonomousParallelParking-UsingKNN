@@ -1456,7 +1456,7 @@ BmwX5 {
 
 
 TeslaModel3 {
-  translation 154 50 0.273
+  translation 154 36 0.273
   rotation 0 0 1 1.57
   controller "<extern>"
   sensorsSlotFront [
